@@ -85,7 +85,7 @@ gsap.timeline({
         trigger:".section81",
         start:"top 80%",
         end:"top 50% ",
-        markers:true,
+        markers:false,
         scrub:true,
         pin :false
     }
